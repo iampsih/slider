@@ -6,3 +6,7 @@ staticfiles/
 .DS_Store
 .vscode/
 *.sql
+media/
+filer_public/
+filer_public_thumbnails/
+db.sqlite3
