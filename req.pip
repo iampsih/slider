@@ -1,0 +1,7 @@
+Django==5.2
+mysqlclient==2.2.4
+Pillow==10.4.0
+django-filer==3.4.4
+django-admin-sortable2==2.2.4
+django-mptt==0.16.0
+easy-thumbnails==2.10
